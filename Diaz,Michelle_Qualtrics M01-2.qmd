@@ -1,0 +1,33 @@
+---
+title: "Qualtrics M01-2: Customizing the Survey"
+subtitle: "Survey of Educational Needs for MR Professionals"
+author: "Michelle Diaz"
+date: today
+format: 
+  html: 
+    toc: true
+    toc-depth: 4
+    number-sections: true
+    code-link: true
+    embed-resources: true
+    theme: cosmo
+editor: visual
+execute: 
+  freeze: auto
+---
+
+## Overview
+
+This document presents the final version of my Qualtrics *Survey of Educational Needs for MR Professionals*, built out from the rough draft submitted for M01-1. All checkpoint items from the Qualtrics Assignment #1 instructions have been addressed, including force response validation, skip and display logic, reverse coding, Side by Side formatting, and content validation.
+
+## Survey Overview
+
+The screenshot below shows the main Qualtrics builder page for the completed survey, with all 56 questions organized across 5 blocks.
+
+![](Screenshot_M01-2.png){fig-align="center"}
+
+## Appendix
+
+GitHub Repository: \[Insert clickable link here\]
+
+GitHub Pages: \[Insert clickable link here\]
